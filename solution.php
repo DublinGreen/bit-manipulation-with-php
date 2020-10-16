@@ -1,7 +1,5 @@
 <?php
 
-
-
 /*
  * Complete the 'minOperations' function below.
  *
